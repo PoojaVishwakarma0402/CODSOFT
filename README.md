@@ -10,8 +10,8 @@ An implementation of a basic calculator that can perform addition, subtraction, 
 3. Student Grading System
 This project simulates a student grading system. It allows users to input student information and their respective grades. The system then calculates average scores and assigns grades based on predefined criteria.
 
-4. Word Count Application
-An application that reads a text file and calculates the total number of words in the text. While it counts the total word occurrences, it doesn't calculate the frequency of each unique word.
+4. Word Count
+This program reads a text file and calculates the total number of words in the text. While it counts the total word occurrences, it doesn't calculate the frequency of each unique word.
 
 5. Movie Ticket Booking System
 This project models a simple movie ticket booking system. It allows users to browse available movies, select showtimes, and book tickets. It also keeps track of the seating arrangement in the theater.
